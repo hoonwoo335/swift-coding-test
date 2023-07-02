@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Solution1'/>
+        <page name='Solution2'/>
+        <page name='Solution3'/>
+        <page name='Solution4'/>
+        <page name='Solution5'/>
+        <page name='Solution6'/>
+        <page name='Solution7'/>
+        <page name='Solution8'/>
+        <page name='Solution9'/>
+        <page name='Solution10'/>
+        <page name='Solution11'/>
+        <page name='Solution12'/>
+        <page name='Solution13'/>
+        <page name='Solution14'/>
+        <page name='Solution15'/>
+        <page name='Solution16'/>
+        <page name='Solution17'/>
+        <page name='Solution18'/>
+        <page name='Solution19'/>
+        <page name='Solution20'/>
+        <page name='Solution21'/>
+        <page name='Solution22'/>
+        <page name='Solution23'/>
+        <page name='Solution24'/>
+        <page name='Solution25'/>
+        <page name='Solution26'/>
+        <page name='Solution27'/>
+        <page name='Solution28'/>
+        <page name='Solution29'/>
+        <page name='Solution30'/>
+        <page name='Solution31'/>
+        <page name='Solution32'/>
+        <page name='Solution33'/>
+        <page name='Solution34'/>
+    </pages>
+</playground>
